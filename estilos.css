@@ -242,6 +242,19 @@ body {
     margin-bottom: 10px;
 }
 
+.project-link {
+    text-decoration: none;
+    color: inherit;
+    .project-link:visited,
+    .project-link:hover,
+    .project-link:active,
+    .project-link:focus {
+        text-decoration: none;
+        color: inherit;
+    }
+}
+
+
 
 /* CONTACTO */
 
